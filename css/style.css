@@ -18,7 +18,7 @@ body {
    font-weight: 400;
 }
 .container {
-    max-width: 1920px;
+    max-width: 1110px;
     margin: 0 auto;
 }
 :root {
@@ -35,4 +35,36 @@ body {
 }
 .text-p {
     font-size: 16px;
+}
+.header {
+    min-height: 700px;
+    background-color: #eeeff1;
+    background-repeat: no-repeat;
+}
+.header__title {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+.logo {
+    width: 96px;
+    height: 60px;
+}
+.menu {
+    width: 611px;
+    display: flex;
+    text-transform: uppercase;
+    justify-content: space-between;
+    
+}
+.menu1 {
+}
+.menu2 {
+}
+.menu3 {
+}
+.menu4 {
+}
+.menu5 {
 }
