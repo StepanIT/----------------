@@ -1,3 +1,38 @@
-/* font-family: 'Open Sans', sans-serif;
-font-family: 'Oswald', sans-serif;
-font-family: 'Roboto', sans-serif; */
+html {
+    box-sizing: border-box;
+}
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+img {
+    display: block;
+    max-width: 100%;
+}
+h1, h2, h3, h4, h5, h6, p {
+    padding: 0;
+    margin: 0;
+}
+body {
+   margin: 0;
+   font-family: 'Roboto', sans-serif; 
+   font-weight: 400;
+}
+.container {
+    max-width: 1920px;
+    margin: 0 auto;
+}
+:root {
+    --accent-color: #34547a;
+    --grey-color: #727272;
+}
+.text-h1 {
+    font-weight: 500px;
+    font-size: 48px;
+}
+.text-h2 {
+    font-weight: 500px;
+    font-size: 32px;
+}
+.text-p {
+    font-size: 16px;
+}
