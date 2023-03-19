@@ -42,6 +42,8 @@ body {
     background-repeat: no-repeat;
 }
 .header__title {
+    padding-top: 57px;
+    width: 1105px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -59,14 +61,25 @@ body {
     
 }
 .menu1 {
+    font-weight: 500;
+    font-size: 16px;
+    color: var(--accent-color);
 }
 .menu2 {
+    font-size: 16px;
+    color: #000000;
 }
 .menu3 {
+    font-size: 16px;
+    color: #000000;
 }
 .menu4 {
+    font-size: 16px;
+    color: #000000;
 }
 .menu5 {
+    font-size: 16px;
+    color: #000000;
 }
 
 .menu__title {
@@ -115,4 +128,14 @@ background-color: var(--accent-color);
 color: #ffffff;
 text-align: center;
 text-transform: uppercase;
+}
+.about-me {
+    text-align: center;
+    padding-top: 78px;
+}
+.text-h2 {
+}
+.text-p {
+   
+    
 }
