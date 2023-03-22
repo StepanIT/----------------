@@ -326,3 +326,20 @@ top: 2941px;
 .card:hover .card-filter {
     opacity: 0.8;
 }
+.clients {
+    position: absolute;
+width: 1110px;
+height: 120px;
+left: 405px;
+top: 3979px;
+}
+.emblem {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 30px;
+}
+.emblem__logo {
+}
+.logo_emblem {
+}
