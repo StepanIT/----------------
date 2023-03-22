@@ -236,3 +236,35 @@ body {
     width: 555px;
     height: 450px;
 }
+.video {
+    cursor: pointer;
+}
+.video__title {
+    
+}
+.text-h2 {
+}
+.video__title-h2 {
+    position: absolute;
+    width: 403px;
+    height: 30px;
+    left: 758px;
+    top: 1959px;
+}
+.text-p {
+
+}
+.video__title-p {
+    position: absolute;
+    width: 540px;
+    height: 67px;
+    left: 690px;
+    top: 2039px;
+}
+.video__video {
+    position: absolute;
+    width: 1110px;
+    height: 600px;
+    left: 405px;
+    top: 2163px;
+}
