@@ -84,6 +84,7 @@ body {
 
 .menu__title {
     display: flex;
+    padding-top: 162px;
     
     
 }
@@ -101,41 +102,46 @@ body {
     left: 487px;
     top: 278px;
 }
-.text-h1 {
+.menu_text_h1 {
     position: absolute;
-width: 541px;
-height: 45px;
-left: 974px;
-top: 257px;
-}
-.text-p {
-    position: absolute;
-width: 540px;
-height: 67px;
-left: 975px;
-top: 362px;
+    width: 541px;
+    height: 45px;
+    left: 974px;
+    top: 257
 }
 .menu__p {
-    color: #727272;
+    color: var(--grey-color);
+    position: absolute;
+    width: 540px;
+    height: 67px;
+    left: 975px;
+    top: 362px;
 }
 .menu__button {
     position: absolute;
-width: 225px;
-height: 65px;
-left: 975px;
-top: 489px;
-background-color: var(--accent-color);
-color: #ffffff;
-text-align: center;
-text-transform: uppercase;
+    width: 225px;
+    height: 65px;
+    left: 975px;
+    top: 489px;
+    background-color: var(--accent-color);
+    color: #ffffff;
+    text-align: center;
+    text-transform: uppercase;
 }
-.about-me {
+.about-me { 
+    
     text-align: center;
     padding-top: 78px;
 }
-.text-h2 {
+.about-me_h2 {
+
 }
-.text-p {
-   
-    
+.about-me_p {
+    color: var(--grey-color);
+    position: absolute;
+    width: 540px;
+    height: 67px;
+    left: 690px;
+    top: 858px;
 }
+
