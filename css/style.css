@@ -145,3 +145,36 @@ body {
     top: 858px;
 }
 
+.numbers {
+    
+    position: absolute;
+    width: 1920px;
+    height: 250px;
+    left: 0px;
+    top: 1003px;
+    background-color: var(--accent-color);
+}
+.rectangle {
+    display: flex;
+}
+.numbers__item {
+    padding-top: 100px;
+    padding-left: 49px;
+    display: flex;
+    color: #ffffff;
+    
+}
+.numbers__logo {
+}
+.logo__item {
+
+}
+.item__text {
+    padding-left: 20px;
+}
+.item__h3 {
+}
+.text-p {
+}
+.item__p {
+}
