@@ -457,3 +457,49 @@ font-weight: 400;
 font-size: 14px;
 line-height: 23px;
 }
+.footer {
+    width: 1920px;
+}
+.footer__rectangle {
+    display: flex;
+    position: absolute;
+width: 1920px;
+height: 151px;
+left: 0px;
+top: 5017px;
+background-color: var(--accent-color);
+align-items: center;
+justify-content: space-between;
+
+}
+.footer__text {
+    padding-left: 406px;
+}
+.text__h3__name {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 500;
+font-size: 21px;
+line-height: 25px;
+
+color: #FFFFFF;
+}
+.text__p__name {
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 21px;
+
+color: #FFFFFF;
+}
+.footer__logo {
+    display: flex;
+    padding-right: 389px;
+}
+.logo1 {
+    
+}
+.footer__logo__one {
+    padding-left: 20px;
+}
