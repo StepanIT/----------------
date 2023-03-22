@@ -178,3 +178,61 @@ body {
 }
 .item__p {
 }
+
+.skills {
+    position: absolute;
+    width: 1150px;
+    height: 450px;
+    left: 385px;
+    top: 1331px;
+}
+.skills__inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.skills__list {
+ 
+
+}
+.text-h2 {
+    
+}
+.skills__h2 {
+    margin-bottom: 50px;
+}
+.one__skills {
+    
+}
+.text-p {
+    
+}
+.skills__p {
+    margin-bottom: 20px;
+    color: var(--grey-color);
+}
+.progress-bar {
+    display: flex;
+    width: 250px;
+    height: 4px;
+    background-color: #999;
+    margin-bottom: 10px;
+}
+.progress-bar-completed {
+    background-color: var(--accent-color);
+}
+.progress-bar-remaning {
+}
+.two__skills {
+}
+.three__skills {
+}
+.skills__photo {
+    
+
+}
+.skills-photo-one {
+    width: 555px;
+    height: 450px;
+}
